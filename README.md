@@ -1,7 +1,7 @@
 ## Introduction
 In this *repository*, we pretent to organize the information of datasets that have been used for hate speech detection or related concepts such as *ciberbullying*, *abusive language*, *online harassment*, among others, to make it easier for researches to obtain datasets.
 
-Even when there are several social media platforms to get data from, the construction of a balanced labeled dataset is a costly task in time and effort and it is still a problem for the researchers in the area. Although most of the below listed datasets are not explicitly available, in some cases would be possible obtain them by requesting from the authors. 
+Even when there are several social media platforms to get data from, the construction of a balanced labeled dataset is a costly task in time and effort and it is still a problem for the researchers in the area. Although most of the below listed datasets are not explicitly available, some of them can be obtained from the authors, if requested. 
 
 
 ## Datasets
