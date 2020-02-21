@@ -28,8 +28,7 @@ Even when there are several social media platforms to get data from, the constru
 |     Gibert et al., 2018      | Sentences from Stormfront |            10568             |                       Yes, [Download](https://github.com/aitor-garcia-p/hate-speech-dataset)                       |    English    |                                      Hate Speech, Non Hate Speech                                      |
 |       SemEval19, 2019        |          Tweets           |             9000             |                                                       No                                                       |    English    |                                      Hate speech, Non Hate Speech                                      |
 |       SemEval19, 2019        |          Tweets           |             4500        |              No              |          Spanish          | Hate Speech, Non Hate Speech |
-
-|     L-HSAB:, 2019     |     Tweets     |             5846             |                                                       Yes, [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                        |    Arabic    |                                 Normal, Abuse, Hate, 
+|     L-HSAB, 2019     |     Tweets     |             5846             |                                                       Yes, [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                        |    Arabic    |                                 Normal, Abuse, Hate, 
 
 ## References
 1. Maria Anzovino, Elisabetta Fersini, and Paolo Rosso. “Auto-matic Identification and Classification of Misogynistic Lan-guage on Twitter.” In:International Conference on Applica-tions of Natural Language to Information Systems. Springer.2018, pp. 57–64.
