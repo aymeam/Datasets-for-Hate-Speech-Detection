@@ -31,7 +31,7 @@ Even when there are several social media platforms to get data from, the constru
 |     L-HSAB, 2019     |     Tweets     |             5846             |                                                       Yes, [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                        |    Arabic    |                                 Normal, Abuse, Hate Speech
 |      Mulki et al. 2019    |     Wikipedia Comments     |             100000             |                                                       Yes, [Download](figshare.com/articles/Wikipedia_Detox_Data/4054689t)                                                        |    English    |                                 Personal Attacks
 |      OLID 2019    |     Tweets     |             14100             |                                                       Yes, [Download](https://competitions.codalab.org/competitions/20011#participate)                                                        |    English    |                                 Offensive, Non Offensive
-
+|      Pereira et al., 2019    |     Tweets     |             6000             |                                                       Yes, [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |    Spanish    |      
 
 
 
@@ -57,3 +57,4 @@ Even when there are several social media platforms to get data from, the constru
 24. Zeerak Waseem and Dirk Hovy. “Hateful Symbols or HatefulPeople? Predictive Features for Hate Speech Detection onTwitter.” In:Proceedings of the Student Research Workshop,SRW@HLT-NAACL 2016, The 2016 Conference of the NorthAmerican Chapter of the Association for Computational Lin-guistics: Human Language Technologies, San Diego California,USA, June 12-17, 2016. 2016, pp. 88–93.
 25. Ellery Wulczyn, Nithum Thain, and Lucas Dixon.  Ex machina:  Personal attacks seen at scale.  In Proceedings of the 26th International Conference on World Wide Web, pp. 1391–1399. International World Wide Web Conferences Steering Committee, 2017.
 26. Marcos Zampieri, Shervin Malmasi, Preslav Nakov, SaraRosenthal, Noura Farra, and Ritesh Kumar. “Predicting theType and Target of Offensive Posts in Social Media.” In:Pro-ceedings of NAACL. 2019
+27. Juan Carlos Pereira-Kohatsu, Lara Quijano Sánchez, FedericoLiberatore, and Miguel Camacho-Collados. “Detecting andMonitoring Hate Speech in Twitter.” In:Sensors19.21 (2019),p. 4654.
