@@ -31,7 +31,7 @@ Even when there are several social media platforms to get data from, the constru
 |     L-HSAB, 2019     |     Tweets     |             5846             |                                                       Yes, [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                        |    Arabic    |                                 Normal, Abuse, Hate Speech
 |      Mulki et al. 2019    |     Wikipedia Comments     |             100000             |                                                       Yes, [Download](figshare.com/articles/Wikipedia_Detox_Data/4054689t)                                                        |    English    |                                 Personal Attacks
 |      OLID 2019    |     Tweets     |             14100             |                                                       Yes, [Download](https://competitions.codalab.org/competitions/20011#participate)                                                        |    English    |                                 Offensive, Non Offensive
-|      Pereira et al., 2019    |     Tweets     |             6000             |                                                       Yes, [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |    Spanish    |      
+|      Pereira et al., 2019    |     Tweets     |             6000             |                                                       Yes, [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |    Spanish    |      Hate Speech, Non Hate Speech  
 
 
 
