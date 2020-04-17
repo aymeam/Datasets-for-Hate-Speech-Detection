@@ -34,7 +34,7 @@ Even when there are several social media platforms to get data from, the constru
 |      [Pereira et al., 2019](https://www.mdpi.com/1424-8220/19/21/4654)    |     Tweets     |             6000             |                                                       Yes, [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |    Spanish    |      Hate Speech, Non Hate Speech  
 
 
-
+<!-- 
 ## References
 1. [Maria Anzovino, Elisabetta Fersini, and Paolo Rosso. “Automatic Identification and Classification of Misogynistic Language on Twitter.” In:International Conference on Applications of Natural Language to Information Systems. Springer.2018, pp. 57–64.](https://link.springer.com/chapter/10.1007/978-3-319-91947-8_6)
 2. [Valerio Basile, Cristina Bosco, Viviana Patti, Manuela Sanguinetti, Elisabetta Fersini, Debora Nozza, Francisco Rangel,and Paolo Rosso. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter.](https://www.aclweb.org/anthology/S19-2007.pdf)
