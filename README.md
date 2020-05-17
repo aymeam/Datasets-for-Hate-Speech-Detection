@@ -4,7 +4,7 @@ In this *repository*, we pretent to organize the information of datasets that ha
 Even when there are several social media platforms to get data from, the construction of a balanced labeled dataset is a costly task in time and effort and it is still a problem for the researchers in the area. Although most of the below listed datasets are not explicitly available, some of them can be obtained from the authors, if requested. 
 
 
-## Datasets
+## Datasets from Related Literature
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |   Language    |                                                 Labels                                                 |
 | :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
 |1|     [Dinakar et al., 2011](https://ie.technion.ac.il/~roiri/papers/3841-16937-1-PB.pdf)     |     YouTube Comments      |             6000             |                                                       -                                                       |    English    |                                 Sexuality, Race, Culture, Intelligence                                  |
