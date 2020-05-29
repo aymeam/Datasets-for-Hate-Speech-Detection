@@ -31,8 +31,8 @@ Even when there are several social media platforms to get data from, the constru
 
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |                                                Labels                                                 |
 | :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|1|       [SemEval19, 2019](https://www.aclweb.org/anthology/S19-2007.pdf)        |          Tweets           |             4500        |     [Request Link](http://hatespeech.di.unito.it/hateval.html)  |          Spanish          | Hate Speech, Non Hate Speech |
-|2|      [Pereira et al., 2019](https://www.mdpi.com/1424-8220/19/21/4654)    |     Tweets     |             6000             |                                                        [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |    Spanish    |      Hate Speech, Non Hate Speech  
+|1|       [SemEval19, 2019](https://www.aclweb.org/anthology/S19-2007.pdf)        |          Tweets           |             4500        |     [Request Link](http://hatespeech.di.unito.it/hateval.html)  |        Hate Speech, Non Hate Speech 
+|2|      [Pereira et al., 2019](https://www.mdpi.com/1424-8220/19/21/4654)    |     Tweets     |             6000             |                                                        [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |        Hate Speech, Non Hate Speech 
 
 
 ### Other languages
