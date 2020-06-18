@@ -1,3 +1,4 @@
+
 ## Introduction
 In this *repository*, we pretent to organize the information of datasets that have been used for hate speech detection or related concepts such as *ciberbullying*, *abusive language*, *online harassment*, among others, to make it easier for researches to obtain datasets.
 
@@ -5,7 +6,18 @@ Even when there are several social media platforms to get data from, the constru
 
 
 ## Datasets from Related Literature
-### English Language
+
+### Spanish 
+
+|  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |                                                Labels                                                 |
+| :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|1|      [IberEval 2018](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)    |     Tweets     |             4138            |                                                        [Download](https://amiibereval2018.wordpress.com/important-dates/data/)                                                        |        Misogeny (5 cathegories), Not Misogeny 
+|2|      [MEX-A3T](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)    |     Tweets     |             11000            |                                                        [Download](https://mexa3t.wixsite.com/home/aggressive-detection-track)                                                        |        Aggressive, Not Aggressive 
+|3|       [SemEval19, 2019](https://www.aclweb.org/anthology/S19-2007.pdf)        |          Tweets           |             4500        |     [Request Link](http://hatespeech.di.unito.it/hateval.html)  |        Hate Speech, Non Hate Speech 
+|4|      [Pereira et al., 2019](https://www.mdpi.com/1424-8220/19/21/4654)    |     Tweets     |             6000             |                                                        [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |        Hate Speech, Non Hate Speech 
+
+
+### English
 
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |                                                Labels                                                 |
 | :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
@@ -27,14 +39,16 @@ Even when there are several social media platforms to get data from, the constru
 |16|       [SemEval19, 2019](https://www.aclweb.org/anthology/S19-2007.pdf)        |          Tweets           |             9000             |                                                       [Request Link](http://hatespeech.di.unito.it/hateval.html)                                                       |                                          Hate speech, Non Hate Speech                                      |
 |17|      [OLID 2019](https://www.aclweb.org/anthology/N19-1144.pdf)    |     Tweets     |             14100             |                                                       [Download](https://competitions.codalab.org/competitions/20011#participate)                                                        |                Offensive, Non Offensive
 
-### Spanish 
 
+### Arabic
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |                                                Labels                                                 |
 | :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|1|      [IberEval 2018](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)    |     Tweets     |             4138            |                                                        [Download](https://amiibereval2018.wordpress.com/important-dates/data/)                                                        |        Misogeny (5 cathegories), Not Misogeny 
-|2|      [MEX-A3T](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)    |     Tweets     |             11000            |                                                        [Download](https://mexa3t.wixsite.com/home/aggressive-detection-track)                                                        |        Aggressive, Not Aggressive 
-|3|       [SemEval19, 2019](https://www.aclweb.org/anthology/S19-2007.pdf)        |          Tweets           |             4500        |     [Request Link](http://hatespeech.di.unito.it/hateval.html)  |        Hate Speech, Non Hate Speech 
-|4|      [Pereira et al., 2019](https://www.mdpi.com/1424-8220/19/21/4654)    |     Tweets     |             6000             |                                                        [Download](https://zenodo.org/record/2592149#.XmuNJahKg2w)                                                        |        Hate Speech, Non Hate Speech 
+|1|     [Mubarak et al., 2017](https://www.aclweb.org/anthology/W17-3008)     |     Tweets     |             1100            |                                                       [Download]( http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx)                                                            |                                 Obscene, Offensive but not obscene, Clean
+|2|     [Albadi et al., 2018](https://ieeexplore.ieee.org/document/8508247)      | Tweets |            6136             |                       [Download](https://github.com/nuhaalbadi/Arabic_hatespeech)                      |                                      Hate Speech, Non Hate Speech                                      |
+|3|[Alakrot A. et al., 2018]( https://www.sciencedirect.com/science/article/pii/S1877050918321756)     |     Tweets     |             15050             |                                                       [Download]( https://onedrive.live.com/?authkey=!ACDXj_ZNcZPqzy0&id=6EF6951FBF8217F9!105&cid=6EF6951FBF8217F9)                                                            |                                 Offensive, Not Offensive
+|4|      [Ousidhoum et al., 2019](https://arxiv.org/pdf/1908.11049.pdf)    |     Tweets     |              3353             |                                                        [Download](https://github.com/HKUST-KnowComp/MLMA_hate_speech)                                                |      Hate Speech, Non Hate Speech  
+|5|     [L-HSAB, 2019](https://www.aclweb.org/anthology/W19-3512/)     |     Tweets     |             5846             |                                                       [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                            |                                 Normal, Abuse, Hate Speech
+
 
 
 
@@ -48,10 +62,7 @@ Even when there are several social media platforms to get data from, the constru
 |4|     [Sirihattasak et al., 2018](https://biblio.ugent.be/publication/8562716/file/8562719.pdf)     |          Tweets           |            3,300             |                                                      Yes                                                       |     Thai      |                                            Toxic, Non Toxic                                            |
 |5|      [Bohra et al., 2018](https://www.aclweb.org/anthology/W18-1105/)      |          Tweets           |             4575             |                                                      Yes                                                       | Hindi-English |                                     Hate Speech, Non Hate Speech                                      |
 |6|     [Sanguinetti et al., 2018](https://www.aclweb.org/anthology/L18-1443.pdf)      |          Tweets           |            6929             |          [Download](https://github.com/msang/hate-speech-corpus)          |    Italian    |                                      Hate Speech, Non Hate Speech                             |
-|7|     [Albadi et al., 2018](https://ieeexplore.ieee.org/document/8508247)      | Tweets |            6136             |                       [Download](https://github.com/nuhaalbadi/Arabic_hatespeech)                       |    Arabic    |                                      Hate Speech, Non Hate Speech                                      |
-|8|     [L-HSAB, 2019](https://www.aclweb.org/anthology/W19-3512/)     |     Tweets     |             5846             |                                                       [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                        |    Arabic    |                                 Normal, Abuse, Hate Speech
-|9|      [Fortuna et al., 2019](https://www.aclweb.org/anthology/W19-3510.pdf)    |     Tweets     |              5668             |                                                        [Download](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)                                                        |    Portuguese    |      Hate Speech (81 categories), Non Hate Speech  
-|10|      [Ousidhoum et al., 2019](https://arxiv.org/pdf/1908.11049.pdf)    |     Tweets     |              3353             |                                                        [Download](https://github.com/HKUST-KnowComp/MLMA_hate_speech)                                                        |    Arabic    |      Hate Speech, Non Hate Speech  
+|7|      [Fortuna et al., 2019](https://www.aclweb.org/anthology/W19-3510.pdf)    |     Tweets     |              5668             |                                                        [Download](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)                                                        |    Portuguese    |      Hate Speech (81 categories), Non Hate Speech  
 
 
 <!-- 
