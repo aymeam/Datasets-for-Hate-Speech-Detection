@@ -57,9 +57,6 @@ Even when there are several social media platforms to get data from, the constru
 |4|      [Ousidhoum et al., 2019](https://arxiv.org/pdf/1908.11049.pdf)    |     Tweets     |              3353             |                                                        [Download](https://github.com/HKUST-KnowComp/MLMA_hate_speech)                                                |      Hate Speech, Non Hate Speech  
 |5|     [L-HSAB, 2019](https://www.aclweb.org/anthology/W19-3512/)     |     Tweets     |             5846             |                                                       [Download](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)                                                            |                                 Normal, Abuse, Hate Speech
 
-
-
-
 ### Other languages
 
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |   Language    |                                                 Labels                                                 |
@@ -69,6 +66,10 @@ Even when there are several social media platforms to get data from, the constru
 |3|     [Sirihattasak et al., 2018](https://biblio.ugent.be/publication/8562716/file/8562719.pdf)     |          Tweets           |            3,300             |                                                      Yes                                                       |     Thai      |                                            Toxic, Non Toxic                                            |
 |4|      [Bohra et al., 2018](https://www.aclweb.org/anthology/W18-1105/)      |          Tweets           |             4575             |                                                      Yes                                                       | Hindi-English |                                     Hate Speech, Non Hate Speech                                      |
 |5|      [Fortuna et al., 2019](https://www.aclweb.org/anthology/W19-3510.pdf)    |     Tweets     |              5668             |                                                        [Download](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)                                                        |    Portuguese    |      Hate Speech (81 categories), Non Hate Speech  
+|6|   [TREC2 2020](https://arxiv.org/ftp/arxiv/papers/2003/2003.07428.pdf)    |     Messages (Twitter,Facebook,Youtube)     |             3,984             |                                                       [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSesLjGKLQlE3dmQNZUEl5QJVno7NngeLTP9XvIMCvpZu7sXNg/viewform)  |Hindi  |   Misogynous (GEN,NGEN), AGGRESSION LEVEL(OAG, CAG, NAG) | Indian English
+|8|   [TREC2 2020](https://arxiv.org/ftp/arxiv/papers/2003/2003.07428.pdf)    |     Messages (Twitter,Facebook,Youtube)     |             3,826            |                                                       [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSesLjGKLQlE3dmQNZUEl5QJVno7NngeLTP9XvIMCvpZu7sXNg/viewform)  |Bangla  |   Misogynous (GEN,NGEN), AGGRESSION LEVEL(OAG, CAG, NAG) | Indian English
+
+
 
 
 <!-- 
