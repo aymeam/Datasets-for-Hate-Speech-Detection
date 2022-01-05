@@ -8,8 +8,8 @@ With the purpose of alleviating this situation, we propose two tools for cross-l
 1. A python library that contains published cross-lingual hate speech detection models as methods: The library has five published models. 
     Each model consists of the original implementation code as a sub-module, plus a class interface that standardizes all models' input to simplify their use. 
 
-    In addition, the library contains the main class whose attributes are the previously mentioned models and auxiliary tools for evaluation and data management. A brief description of the models can be found in Section \ref{cross-lingual-models}
+    In addition, the library contains the main class whose attributes are the previously mentioned models and auxiliary tools for evaluation and data management. [Framework for hate speech detection](https://github.com/aymeam/hate-speech-framework)
 
-2. An open competition in Codalab\footnote{https://codalab.org/} for further comparison. We set up an open competition in Codalab to promote fair comparison among cross-lingual approaches. Different leaderboards can be found for three different datasets.
+
+2. An open competition in [Codalab](https://codalab.org/) for further comparison. We set up an open competition in Codalab to promote fair comparison among cross-lingual approaches. Different leaderboards can be found for three different datasets.
  
-[Framework for hate speech detection](https://github.com/aymeam/hate-speech-framework)
