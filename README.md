@@ -1,11 +1,10 @@
 
-## Introduction
+## Datasets from Related Literature
 In this *repository*, we present information on datasets that have been used for *hate speech* detection or related concepts such as *cyberbullying*, *abusive language*, *online harassment*, among others, to make it easier for researchers to obtain datasets.
 
 Even when there are several social media platforms to get data from, the construction of a balanced labeled dataset is a costly task in time and effort, and it is still a problem for the researchers in the area. Although most of the below-listed datasets are not explicitly available, some of them can be obtained from the authors if requested. 
 
 
-## Datasets from Related Literature
 
 ### Spanish 
 
