@@ -70,9 +70,15 @@ Even when there are several social media platforms to get data from, the constru
 |8|   [TREC2 2020](https://arxiv.org/ftp/arxiv/papers/2003/2003.07428.pdf)    |     Messages (Twitter,Facebook,Youtube)     |             3,826            |                                                       [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSesLjGKLQlE3dmQNZUEl5QJVno7NngeLTP9XvIMCvpZu7sXNg/viewform)  |Bangla  |   Misogynous (GEN,NGEN), AGGRESSION LEVEL(OAG, CAG, NAG)
 
 
+### Multimodal Datasets
+
+|  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |   Language    |                                                 Labels                                                 |
+| :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
+|1|       [Kiela et al., 2020](https://papers.nips.cc/paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf)       |   Memes (Image + Text)       |            10000             |                                                       -                                                       |     English     |       Hate, No Hate      |
 
 
 <!-- 
+https://papers.nips.cc/paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf
 ## References
 1. [Maria Anzovino, Elisabetta Fersini, and Paolo Rosso. “Automatic Identification and Classification of Misogynistic Language on Twitter.” In:International Conference on Applications of Natural Language to Information Systems. Springer.2018, pp. 57–64.](https://link.springer.com/chapter/10.1007/978-3-319-91947-8_6)
 2. [Valerio Basile, Cristina Bosco, Viviana Patti, Manuela Sanguinetti, Elisabetta Fersini, Debora Nozza, Francisco Rangel,and Paolo Rosso. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter.](https://www.aclweb.org/anthology/S19-2007.pdf)
