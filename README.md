@@ -74,5 +74,7 @@ Even when there are several social media platforms to get data from, the constru
 
 |  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |   Language    |                                                 Labels                                                 |
 | :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
-|1|       [Kiela et al., 2020](https://papers.nips.cc/paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf)       |   Memes (Image + Text)       |            10000             |  [Competition link](https://www.drivendata.org/competitions/64/hateful-memes/page/205/)   |     English     |       Hate, No Hate      |
+|1|       [Kiela et al., 2020](https://papers.nips.cc/paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf)       |   Memes (Image + Text)       |            10000             |  [Competition link](https://www.drivendata.org/competitions/64/hateful-memes/page/205/)   |     Texts in English     |       Hate, No Hate      |
+|2|       [Pramanick1 et al., 2021](https://arxiv.org/pdf/2110.00413.pdf)       |   Memes (Image + Text)       |            10000             |  [Download](https://github.com/di-dimitrov/harmeme)   |     Texts in English     | somewhat harmful, not harmful, very harmful |
+
 
