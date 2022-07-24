@@ -22,6 +22,10 @@ Even when there are several social media platforms to get data from, the constru
 |1|     [Sanguinetti et al., 2018](https://www.aclweb.org/anthology/L18-1443.pdf)      |          Tweets           |            6929             |          [Download](https://github.com/msang/hate-speech-corpus)       |                                      Hate Speech, Non Hate Speech                            |
 |2|     [EVALITA 2018](http://ceur-ws.org/Vol-2263/paper010.pdf)      |          Facebook Posts           |            4000             |          [Download](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)       |                                     No Hate, Weak Hate, Strong Hate                             |
 |3|     [EVALITA 2018](http://ceur-ws.org/Vol-2263/paper010.pdf)       |          Tweets           |            4000             |         [Download](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)      |                                      Hate Speech, Non Hate Speech                             |
+|4|     [EVALITA 2020](https://iris.unito.it/retrieve/handle/2318/1764608/687063/paper162.pdf)       |          Tweets           |            6839             |         [Request Link](https://docs.google.com/forms/d/e/1FAIpQLSex_0B8cW0U3pHDIfv71bZXEHD1x2J4omHkti2TlgHwpTATXA/viewform)      |                                      Hate Speech, Non Hate Speech                             |
+
+
+
 
 
 ### English
@@ -68,6 +72,13 @@ Even when there are several social media platforms to get data from, the constru
 |5|      [Fortuna et al., 2019](https://www.aclweb.org/anthology/W19-3510.pdf)    |     Tweets     |              5668             |                                                        [Download](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)                                                        |    Portuguese    |      Hate Speech (81 categories), Non Hate Speech  
 |6|   [TREC2 2020](https://arxiv.org/ftp/arxiv/papers/2003/2003.07428.pdf)    |     Messages (Twitter,Facebook,Youtube)     |             3,984             |                                                       [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSesLjGKLQlE3dmQNZUEl5QJVno7NngeLTP9XvIMCvpZu7sXNg/viewform)  |Hindi  |   Misogynous (GEN,NGEN), AGGRESSION LEVEL(OAG, CAG, NAG) 
 |8|   [TREC2 2020](https://arxiv.org/ftp/arxiv/papers/2003/2003.07428.pdf)    |     Messages (Twitter,Facebook,Youtube)     |             3,826            |                                                       [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSesLjGKLQlE3dmQNZUEl5QJVno7NngeLTP9XvIMCvpZu7sXNg/viewform)  |Bangla  |   Misogynous (GEN,NGEN), AGGRESSION LEVEL(OAG, CAG, NAG)
+
+
+
+### Multilingual (Parallel Data)
+|  No|           Datasets                    (Link to paper)          |          Objects          |             Size             |                                                   Available                                                    |   Language    |                                                 Labels                                                 |
+| :----:| :--------------------------: | :-----------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
+|1|   [XHate 999](https://www.repository.cam.ac.uk/handle/1810/315111)    |Tweets from previous published English datasets and translated to 5 languages|   600 (x  6 languages)|                                                       [Download](https://github.com/codogogo/xhate)  |English, German, Russian, Croatian, Albanian, Turkish  | sexism, racism, toxicity, hatefulness, aggression, attack, cyberbullying, misogyny, obscenity, threats, and insults.
 
 
 ### Multimodal Datasets
